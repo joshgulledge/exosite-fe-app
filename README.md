@@ -2,6 +2,8 @@
 
 Simulates data received from sensors for insight backend
 
+![AppPic](./src/assets/picOne.png "AppPic")
+
 ## Project setup
 ```
 npm install
